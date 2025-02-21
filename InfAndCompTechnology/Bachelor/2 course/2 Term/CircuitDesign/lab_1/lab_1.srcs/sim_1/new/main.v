@@ -85,7 +85,4 @@ up_level display(
     .AN(anods),
     .SEG(segments)
 );
-
-
-
 endmodule
